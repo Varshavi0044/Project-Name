@@ -4,4 +4,6 @@ def count_multiples(numbers):
         for i in range(1, 10):
             if num % i == 0:
                 result[i] += 1
-    return result
+                return result
+                
+    
