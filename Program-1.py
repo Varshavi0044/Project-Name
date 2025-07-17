@@ -16,5 +16,5 @@ class Calculator:
                 return self.a / self.b
             else:
                 return "Error: Division by zero"
-        else:
-            return "Error: Invalid operation"
+                else:
+                    return "Error: Invalid operation"
